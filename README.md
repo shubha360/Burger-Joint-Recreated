@@ -1,16 +1,21 @@
-# burgerjoint
+# Burger Joint
 
-A recreation of burger joint in flutter.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Getting Started
+This is recreation of my very first app 'Burger Joint'. I developed the main app which was built with java at my very fist phrase of development career. I have a nostalgic touch with. That's why I have recreated it using flutter.
 
-This project is a starting point for a Flutter application.
+- Anyone is welcome to create issues and pull requests.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+<img src="Screenshots/1.png" width="200">
+<img src="Screenshots/2.png" width="200">
+<img src="Screenshots/3.png" width="200">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# License
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**MIT License**
+
+Copyright (c) 2020 Raquibul Islam
+
+[License details](https://github.com/shubha360/burger-joint-recreated/blob/master/LICENSE)
