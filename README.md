@@ -5,6 +5,7 @@
 This is recreation of my very first app 'Burger Joint'. I developed the main app which was built with java at my very fist phrase of development career. I have a nostalgic touch with. That's why I have recreated it using flutter.
 
 - Anyone is welcome to create issues and pull requests.
+- Contact developer - development.ionosphere@gmail.com
 
 <p align="center">
 <img src="Screenshots/1.png" width="200">
