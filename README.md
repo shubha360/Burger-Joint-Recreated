@@ -5,7 +5,11 @@
 This is recreation of my very first app 'Burger Joint'. I developed the main app which was built with java at my very fist phrase of development career. I have a nostalgic touch with. That's why I have recreated it using flutter.
 
 - Anyone is welcome to create issues and pull requests.
+<<<<<<< HEAD
 - Credit to only icon used - [phoenix-framework from Font Awesome](https://fontawesome.com/icons/phoenix-framework?style=brands)
+=======
+- Contact developer - development.ionosphere@gmail.com
+>>>>>>> bd3921d8d110b3a6f5a4d72245dadf06150e5b57
 
 <p align="center">
 <img src="Screenshots/1.png" width="200">

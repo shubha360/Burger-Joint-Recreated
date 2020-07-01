@@ -68,6 +68,12 @@ class CheckoutScreen extends StatelessWidget {
                         endText: drinksPrice,
                         weight: FontWeight.normal,
                       ),
+                      Divider(
+                        color: Colors.white,
+                        thickness: SizeConfig.safeBlockVertical * .1,
+                        indent: SizeConfig.safeBlockHorizontal * 10,
+                        endIndent: SizeConfig.safeBlockHorizontal * 10,
+                      ),
                       CheckoutRow(
                         startText: 'Total',
                         endText: '${determineTotalPrice()}',
